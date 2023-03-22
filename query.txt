@@ -1,0 +1,13 @@
+Determine general topics for each question. Don't add trailing comma at the end!
+
+# Example
+Question:  What are used for protection by fish? (A) scales (B) fins (C) streams. (D) coral (E) gills (F) Collagen (G) mussels (H) whiskers
+Topics: Biology, Anatomy, Marine biology, Zoology, Evolution, Fish anatomy, Aquatic ecosystems, Natural selection
+
+Question:  What are pangolins covered in? (A) tunicates (B) Echinoids (C) shells (D) exoskeleton (E) blastoids (F) barrel-shaped (G) protection (H) white
+Topics: Biology, Anatomy, Zoology, Endangered species, Wildlife conservation, Animal behavior, Mammals
+
+Question:  What are covered with protection? (A) apples (B) trees (C) coral (D) clams (E) roses (F) wings (G) hats (H) fish
+Topics: Biology, Anatomy, Botany, Botanical morphology, Horticulture, Agriculture, Plant physiology, Plant reproduction, Gardening techniques
+
+# Your input
